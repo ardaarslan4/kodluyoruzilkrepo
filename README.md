@@ -8,8 +8,7 @@ Bu repo <ins>[Kodluyoruz](https://kodluyoruz.org/tr/kodluyoruz/)</ins> Front-End
 Öncelikle projeyi clonelayın.(Buraya sizin reponuzdan aldığınız link gelecek)
 
 ```
-git clone https://github.com/ardaarslan4/kodluyoruzilkrepo
-.git
+git clone https://github.com/ardaarslan4/kodluyoruzilkrepo.git
 ```
 
 ## Usage
